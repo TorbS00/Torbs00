@@ -1,6 +1,6 @@
 # Hello, fellow developers! 👋
 
-I'm TorbS00, a passionate programmer with a love for many languages; however, my expertise lies in Java. I have a background in Business and Administration, with a specialization in advanced mathematics, microeconomics, and statistical analytics.
+I'm TorbS00, a passionate programmer with a love for many languages; however, my expertise lies in Java. I have a background in Business and Administration, with specialization in advanced mathematics, microeconomics, and statistical analytics.
 
 ## About Me
 
