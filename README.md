@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, fellow developers! 👋
 
-<!--
-**TorbS00/Torbs00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm TorbS00, a passionate programmer with a love for many languages; however, my expertise lies in Java. I have a background in Business and Administration, with a specialization in advanced mathematics, microeconomics, and statistical analytics.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Proficient in Java, and experience in multiple programming languages.
+- 🛢️ Worked with various databases, including MySQL, SQLite, and MongoDB.
+- 📊 Skilled in data science and analytics, including data visualization, machine learning, and statistical analysis.
+- 🚀 Passionate about coding, continuously learning, and staying updated with the latest technology trends.
+
+## Projects
+
+- 📚 Repositories on GitHub showcasing my Java skills and the intersection of business and technology.
+- 🧱 Projects encompass a range of Java-based endeavors, including Minecraft plugins, platform-independent libraries, and other software projects.
+- 📝 Regular updates with new features, improvements, and documentation to benefit the community.
+
+I'm excited to continue my coding journey, leveraging my skills in Java, data science, and business to make meaningful contributions.
