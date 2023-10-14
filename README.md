@@ -1,1 +1,1 @@
-❝"_As a passionate programmer, I relish the ever-changing landscape of technology and the endless opportunities for learning. Each line of code I write is a step towards unraveling the mysteries of the digital world and honing my craft. Programming is not just a skill, but a boundless journey of discovery, where curiosity fuels my quest for knowledge and innovation._" - ChatGPT❞ 🚀💻📊
+❝I try to learn stuff❞ 
